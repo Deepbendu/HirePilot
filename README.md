@@ -68,7 +68,7 @@ Artificial-Evaluation-and-Scheduling-System-for-Candidates/
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/KrMayank789/Artificial-Evaluation-and-Scheduling-System-for-Candidates.git
+   git clone https://github.com/Deepbendu/HirePilot.git
    ```
 
 2. **Import Workflow into n8n**
